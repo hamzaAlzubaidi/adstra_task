@@ -1,0 +1,16 @@
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.AssemblyInfo.cs
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\bin\Debug\netcoreapp3.1\adstra_task.Data.deps.json
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\bin\Debug\netcoreapp3.1\adstra_task.Data.runtimeconfig.json
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\bin\Debug\netcoreapp3.1\adstra_task.Data.runtimeconfig.dev.json
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\bin\Debug\netcoreapp3.1\adstra_task.Data.dll
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\bin\Debug\netcoreapp3.1\adstra_task.Data.pdb
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\bin\Debug\netcoreapp3.1\adstra_task.Core.dll
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\bin\Debug\netcoreapp3.1\adstra_task.Core.pdb
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.csproj.CopyComplete
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.dll
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.pdb
+C:\inetpub\wwwroot\adstra_task\adstra_task.Data\obj\Debug\netcoreapp3.1\adstra_task.Data.genruntimeconfig.cache
