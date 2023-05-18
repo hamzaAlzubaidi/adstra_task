@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\bin\Debug\netcoreapp3.1\adstra_task.Core.deps.json
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\bin\Debug\netcoreapp3.1\adstra_task.Core.dll
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\bin\Debug\netcoreapp3.1\adstra_task.Core.pdb
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\obj\Debug\netcoreapp3.1\adstra_task.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\obj\Debug\netcoreapp3.1\adstra_task.Core.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\obj\Debug\netcoreapp3.1\adstra_task.Core.AssemblyInfo.cs
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\obj\Debug\netcoreapp3.1\adstra_task.Core.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\obj\Debug\netcoreapp3.1\adstra_task.Core.dll
+C:\inetpub\wwwroot\adstra_task\adstra_task.Core\obj\Debug\netcoreapp3.1\adstra_task.Core.pdb
